@@ -13,8 +13,8 @@ Original internal name:
 */
 
 $modelname "base.mdl"
-$cd "D:\HLAmanager\COMPILE\c"
-$cdtexture "D:\HLAmanager\COMPILE\c"
+$cd "C:\Users\dudew\Desktop\epiczoneskins\EpiczoneSkinSystem\resources\decomp\c"
+$cdtexture "C:\Users\dudew\Desktop\epiczoneskins\EpiczoneSkinSystem\resources\decomp\c"
 $scale 1.0
 $cliptotextures
 
@@ -23,13 +23,24 @@ $bbox 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
 $cbox 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
 $eyeposition 0.000000 0.000000 0.000000
 
-
 //reference mesh(es)
 $bodygroup "corey"
 {
-studio "sas"
-studio "sas-artic"
+    studio "base"
+    studio "chroma_orange"
+    studio "chroma_yellow"
+    studio "chroma_pink"
+    studio "chroma_green"
+    studio "chroma_white"
+    studio "chroma_blue"
+    studio "chroma_purple"
+    studio "skin_blood"
+    studio "skin_artic"    
+    studio "skin_military"
+    studio "skin_sunshine"
+    studio "skin_toxic"
 }
+
 
 
 // 2 attachment(s)
