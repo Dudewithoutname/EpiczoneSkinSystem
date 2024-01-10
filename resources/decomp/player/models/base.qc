@@ -13,8 +13,8 @@ Original internal name:
 */
 
 $modelname "base.mdl"
-$cd "C:\Users\dudew\Desktop\epiczoneskins\EpiczoneSkinSystem\resources\decomp\c"
-$cdtexture "C:\Users\dudew\Desktop\epiczoneskins\EpiczoneSkinSystem\resources\decomp\c"
+$cd "C:\Users\dudew\Desktop\epiczoneskins\EpiczoneSkinSystem\resources\decomp\player\output"
+$cdtexture "C:\Users\dudew\Desktop\epiczoneskins\EpiczoneSkinSystem\resources\decomp\player\output"
 $scale 1.0
 $cliptotextures
 
