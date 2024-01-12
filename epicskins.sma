@@ -6,12 +6,9 @@ const ESkin_Size = 7;
 enum ESkin {
     HUMAN,
     KNIFE,
-    CHAINSAW,
-    LASERCOLOR,
     BAZOOKA,
     SUPER_BAZOOKA,
     PARACHUTE,
-    NEMESIS
 }
 
 enum _:CSkinData {

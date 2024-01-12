@@ -12,7 +12,6 @@ M_SKINS_3 = Lasermine Color
 M_SKINS_4 = Bazooka
 M_SKINS_5 = Super Bazooka
 M_SKINS_6 = Parachute
-M_SKINS_7 = Nemesis
 
 [sk]
 M_EXIT = Koniec
