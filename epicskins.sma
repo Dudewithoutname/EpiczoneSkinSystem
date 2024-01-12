@@ -2,7 +2,7 @@
 
 const INVENTORY_MAX = 128;
 
-const ESkin_Size = 7;
+const ESkin_Size = 5;
 enum ESkin {
     HUMAN,
     KNIFE,

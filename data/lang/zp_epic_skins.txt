@@ -7,11 +7,9 @@ M_SKINS_HEADER = Skin Inventory \d(/skins) \r
 
 M_SKINS_0 = Human
 M_SKINS_1 = Knife
-M_SKINS_2 = Chainsaw
-M_SKINS_3 = Lasermine Color
-M_SKINS_4 = Bazooka
-M_SKINS_5 = Super Bazooka
-M_SKINS_6 = Parachute
+M_SKINS_2 = Bazooka
+M_SKINS_3 = Super Bazooka
+M_SKINS_4 = Parachute
 
 [sk]
 M_EXIT = Koniec
