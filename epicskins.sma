@@ -48,14 +48,14 @@ public menu_skins_render(id) {
         menu_additem(menuId, buffer);
     }
 
-	formatex(buffer, charsmax(buffer), "%L", id, "M_BACK");
-	menu_setprop(menuId, MPROP_BACKNAME, buffer);
+    formatex(buffer, charsmax(buffer), "%L", id, "M_BACK");
+    menu_setprop(menuId, MPROP_BACKNAME, buffer);
 
-	formatex(buffer, charsmax(buffer), "%L", id, "M_NEXT");
-	menu_setprop(menuId, MPROP_NEXTNAME, buffer);
+    formatex(buffer, charsmax(buffer), "%L", id, "M_NEXT");
+    menu_setprop(menuId, MPROP_NEXTNAME, buffer);
 
-	formatex(buffer, charsmax(buffer), "%L", id, "M_EXIT");
-	menu_setprop(menuId, MPROP_EXITNAME, buffer);
+    formatex(buffer, charsmax(buffer), "%L", id, "M_EXIT");
+    menu_setprop(menuId, MPROP_EXITNAME, buffer);
 }
 
 public menu_skins_handler() {
